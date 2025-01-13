@@ -1,0 +1,21 @@
+{
+  "welcome": "Bienvenue",
+  "login": "Connexion",
+  "logout": "Déconnexion",
+  "profile": "Profil",
+  "settings": "Paramètres",
+  "Click on the Vite and React logos to learn more": "Cliquez sur les logos Vite et React pour en savoir plus",
+  "Login to Account": "Se connecter à un compte",
+  "Please enter your email and password to continue": "Veuillez entrer votre email et mot de passe pour continuer",
+  "Email Address": "Adresse e-mail",
+  "Password": "Mot de passe",
+  "Remember Password": "Se souvenir du mot de passe",
+  "Forgot Password?": "Mot de passe oublié?",
+  "Sign In": "Se connecter",
+  "Don't have an account?": "Vous n'avez pas de compte?",
+  "Create Account": "Créer un compte",
+  "Email is invalid": "L'email est invalide",
+  "Email is required": "L'email est requis",
+  "Password is required": "Le mot de passe est requis",
+  "Invalid email or password": "Email ou mot de passe invalide"
+}

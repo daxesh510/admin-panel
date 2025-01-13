@@ -1,0 +1,15 @@
+{
+  "Login to Account": "Login to Account",
+  "Please enter your email and password to continue": "Please enter your email and password to continue",
+  "Email Address": "Email Address",
+  "Password": "Password",
+  "Remember Password": "Remember Password",
+  "Forgot Password?": "Forgot Password?",
+  "Sign In": "Sign In",
+  "Don't have an account?": "Don't have an account?",
+  "Create Account": "Create Account",
+  "Email is invalid": "Email is invalid",
+  "Email is required": "Email is required",
+  "Password is required": "Password is required",
+  "Invalid email or password": "Invalid email or password"
+}

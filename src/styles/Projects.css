@@ -1,0 +1,40 @@
+.projects-layout {
+  margin-left: 200px;
+  padding: 20px;
+  overflow-x: auto;
+}
+
+.projects-header {
+  margin-bottom: 20px;
+}
+
+.status-filter {
+  width: 200px;
+}
+
+.dark-mode .ant-table-thead > tr > th {
+  background-color: #001529;
+  color: #ffffff;
+}
+
+.dark-mode .ant-table-tbody > tr > td {
+  background-color: #001529;
+  color: #ffffff;
+}
+
+.dark-mode .ant-table-tbody > tr:hover > td {
+  background-color: #1e2329 !important;
+  color: #ffffff;
+}
+
+.dark-mode .projects-layout {
+  background-color: #000000;
+}
+
+.dark-mode .projects-title {
+  color: rgb(11, 11, 11);
+}
+
+.dark-mode .projects-table {
+  color: white;
+}

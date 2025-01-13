@@ -1,0 +1,71 @@
+.dashboard-layout {
+  margin-left: 200px;
+  padding: 20px;
+  overflow-x: auto;
+}
+
+.dashboard-header {
+  margin-bottom: 20px;
+}
+
+.cards-row {
+  margin: 16px 0;
+}
+
+.card {
+  border-radius: 10px;
+  height: 100%;
+  background-color: #fff;
+  color: #000;
+}
+
+.card.dark-mode {
+  background-color: #001529;
+  color: #fff;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.card-title {
+  color: #000;
+}
+
+.card-title.dark-mode {
+  color: #fff;
+}
+
+.card-value {
+  color: #000;
+}
+
+.card-value.dark-mode {
+  color: #fff;
+}
+
+.chart-card {
+  margin: 16px 0;
+  border-radius: 8px;
+  padding: 16px;
+  border: 1px solid #ccc;
+  background-color: #fff;
+  color: #000;
+}
+
+.chart-card.dark-mode {
+  background-color: #001529;
+  color: #fff;
+}
+
+.chart-title {
+  margin-bottom: 16px;
+  text-align: left;
+  color: #000;
+}
+
+.chart-title.dark-mode {
+  color: #fff;
+}

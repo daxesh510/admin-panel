@@ -1,0 +1,694 @@
+{
+  "estimates": [
+    {
+      "id": "1",
+      "version": "1.0sdsadd",
+      "project": "Website Redesigndsdsdsdsd",
+      "client": "Acme Corp",
+      "status": "Rejected",
+      "createdDate": "2023-01-15",
+      "lastModifiedDate": "2025-01-13T06:35:14.545Z",
+      "details": [
+        {
+          "key": 6,
+          "item": "Dummy Item",
+          "description": "Dummy Description",
+          "unit": "pcs",
+          "quantity": 5,
+          "price": 500,
+          "margin": 50,
+          "category": "Dummy Category"
+        },
+        {
+          "key": 2,
+          "item": "dadsd",
+          "description": "dsd",
+          "unit": "qty",
+          "quantity": 190,
+          "price": 199,
+          "margin": 9992,
+          "category": "Dummy Category"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "version": "1.1",
+      "project": "Mobile App Development",
+      "client": "Beta Industries",
+      "createdDate": "2023-02-10",
+      "lastModifiedDate": "2023-02-15",
+      "status": "Processing",
+      "details": [
+        {
+          "key": 1,
+          "item": "UI Design",
+          "description": "Designing the user interface for the mobile app",
+          "unit": "hours",
+          "quantity": 50,
+          "price": 100,
+          "margin": 10,
+          "category": "Design"
+        },
+        {
+          "key": 2,
+          "item": "Backend Development",
+          "description": "Developing the backend services for the mobile app",
+          "unit": "hours",
+          "quantity": 150,
+          "price": 120,
+          "margin": 15,
+          "category": "Development"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "version": "2.0",
+      "project": "Cloud Migration",
+      "client": "Gamma Solutions",
+      "createdDate": "2023-03-05",
+      "lastModifiedDate": "2023-03-10",
+      "status": "Created",
+      "details": [
+        {
+          "key": 3,
+          "item": "Server Setup",
+          "description": "Setting up cloud servers",
+          "unit": "hours",
+          "quantity": 100,
+          "price": 150,
+          "margin": 12,
+          "category": "Infrastructure"
+        },
+        {
+          "key": 4,
+          "item": "Data Migration",
+          "description": "Migrating data to the cloud",
+          "unit": "hours",
+          "quantity": 80,
+          "price": 130,
+          "margin": 10,
+          "category": "Data"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "version": "3.2",
+      "project": "Social Media Integration",
+      "client": "Omega Corp",
+      "createdDate": "2024-11-15",
+      "lastModifiedDate": "2024-11-20",
+      "status": "Created",
+      "details": {
+        "key": 7,
+        "item": "API Development",
+        "description": "Developing APIs for social media integration",
+        "unit": "hours",
+        "quantity": 120,
+        "price": 150,
+        "margin": 10,
+        "category": "Development"
+      }
+    },
+    {
+      "id": "24",
+      "version": "3.3",
+      "project": "Customer Portal",
+      "client": "Sigma Solutions",
+      "createdDate": "2024-12-01",
+      "lastModifiedDate": "2024-12-05",
+      "status": "Processing",
+      "details": {
+        "key": 8,
+        "item": "Portal Design",
+        "description": "Designing customer portal interface",
+        "unit": "hours",
+        "quantity": 80,
+        "price": 200,
+        "margin": 15,
+        "category": "Design"
+      }
+    },
+    {
+      "id": "25",
+      "version": "3.4",
+      "project": "Inventory Management System",
+      "client": "Alpha Inc",
+      "createdDate": "2025-01-10",
+      "lastModifiedDate": "2025-01-15",
+      "status": "Rejected",
+      "details": {
+        "key": 9,
+        "item": "System Development",
+        "description": "Developing inventory management system",
+        "unit": "hours",
+        "quantity": 200,
+        "price": 180,
+        "margin": 12,
+        "category": "Development"
+      }
+    },
+    {
+      "id": "12ad",
+      "details": [
+        {
+          "key": 1,
+          "item": "cable",
+          "description": "cable",
+          "unit": "qty",
+          "quantity": 1,
+          "price": 100,
+          "margin": 2,
+          "category": "test"
+        }
+      ]
+    },
+    {
+      "id": "9f93",
+      "version": "1.0",
+      "project": "daxesh test3",
+      "client": "bsbdjh",
+      "status": "Rejected",
+      "createdDate": "2025-01-28T18:30:00.000Z",
+      "lastModifiedDate": "2025-01-13T06:20:53.840Z",
+      "details": [
+        {
+          "key": 1,
+          "item": "sd",
+          "description": "d",
+          "unit": "qty",
+          "quantity": 1,
+          "price": 100,
+          "margin": 1,
+          "category": "test"
+        },
+        {
+          "key": 2,
+          "item": "ds",
+          "description": "test",
+          "unit": "ehfdh",
+          "quantity": 1,
+          "price": 2928,
+          "margin": 27727,
+          "category": "test"
+        },
+        {
+          "key": 3,
+          "item": "qhb",
+          "description": "euhuw",
+          "unit": "euwh",
+          "quantity": 200,
+          "price": 1,
+          "margin": 1000,
+          "category": "test"
+        },
+        {
+          "key": 4,
+          "item": "sajn",
+          "description": "djsbhd",
+          "unit": "qty",
+          "quantity": 1,
+          "price": 10,
+          "margin": 929,
+          "category": "test1"
+        },
+        {
+          "key": 5,
+          "item": "jdshjdh",
+          "description": "hdu",
+          "unit": "pcs",
+          "quantity": 11,
+          "price": 128,
+          "margin": 182,
+          "category": "test1"
+        }
+      ]
+    },
+    {
+      "id": "e010",
+      "version": "test",
+      "project": "tegvsv",
+      "client": "ndndj",
+      "status": "Approved",
+      "createdDate": "2025-01-13T05:26:56.669Z",
+      "lastModifiedDate": "2025-01-13T05:26:56.669Z",
+      "sections": [],
+      "details": [
+        {
+          "key": 1,
+          "item": "elect",
+          "description": "dknsn",
+          "unit": "qty",
+          "quantity": 10,
+          "price": 100,
+          "margin": 20,
+          "category": "test"
+        }
+      ]
+    },
+    {
+      "id": "839b",
+      "version": "test",
+      "project": "test",
+      "client": "daxesh",
+      "status": "Created",
+      "createdDate": "2025-01-13T05:30:01.613Z",
+      "lastModifiedDate": "2025-01-13T06:19:53.389Z",
+      "details": [
+        {
+          "key": 1,
+          "item": "wire",
+          "description": "dndn",
+          "unit": "unit",
+          "quantity": 1,
+          "price": 100,
+          "margin": 1,
+          "category": "electric"
+        },
+        {
+          "key": 2,
+          "item": "daxeh",
+          "description": "dsjbd",
+          "unit": "jdnb",
+          "quantity": 1,
+          "price": 2,
+          "margin": 1,
+          "category": "electric"
+        }
+      ]
+    },
+    {
+      "id": "849a",
+      "version": "daxesh",
+      "project": "daxesh wisrgpt",
+      "client": "dhiise",
+      "status": "Processing",
+      "createdDate": "2025-01-13T06:18:20.688Z",
+      "lastModifiedDate": "2025-01-13T06:18:20.688Z",
+      "details": [
+        {
+          "key": 1,
+          "item": "Wire",
+          "description": "Electeic wire",
+          "unit": "pcs",
+          "quantity": 10,
+          "price": 101,
+          "margin": 1,
+          "category": "test 1"
+        },
+        {
+          "key": 2,
+          "item": "sdsm",
+          "description": "djnbfj",
+          "unit": "qty",
+          "quantity": 1,
+          "price": 100,
+          "margin": 1,
+          "category": "test 1"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "customer": "Acme Corp",
+      "refNumber": "A12345",
+      "projectReference": {
+        "title": "Website Redesign",
+        "name": "WebRedesign-001ddsdsd"
+      },
+      "projectLocation": {
+        "title": "New York Office",
+        "name": "123 Main St, New York, NY"
+      },
+      "dueDate": "2023-12-30T18:30:00.000Z",
+      "contact": "988888888",
+      "assignedTo": {
+        "manager": "Jane Smith",
+        "staff": "Bob Johnson"
+      },
+      "status": "Completed",
+      "comments": "Project completed successfully",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "customer": "Beta Industries",
+      "refNumber": "B67890",
+      "projectReference": {
+        "title": "Mobile App Development",
+        "name": "MobileApp-002"
+      },
+      "projectLocation": {
+        "title": "San Francisco Office",
+        "name": "456 Market St, San Francisco, CA"
+      },
+      "dueDate": "2024-01-15",
+      "contact": "alice.williams@betaindustries.com",
+      "assignedTo": {
+        "manager": "Michael Brown",
+        "staff": "Sara Davis"
+      },
+      "status": "Processing",
+      "comments": "Development phase ongoing"
+    },
+    {
+      "id": "3",
+      "customer": "Gamma Solutions",
+      "refNumber": "C11223",
+      "projectReference": {
+        "title": "Cloud Migration",
+        "name": "CloudMigration-003"
+      },
+      "projectLocation": {
+        "title": "Chicago Office",
+        "name": "789 Lake Shore Dr, Chicago, IL"
+      },
+      "dueDate": "2024-02-20",
+      "contact": "charles.miller@gammasolutions.com",
+      "assignedTo": {
+        "manager": "Emily Wilson",
+        "staff": "David Martinez"
+      },
+      "status": "Rejected",
+      "comments": "Client requested changes"
+    },
+    {
+      "id": "4",
+      "customer": "Delta Enterprises",
+      "refNumber": "D44556",
+      "projectReference": {
+        "title": "ERP Implementation",
+        "name": "ERP-004"
+      },
+      "projectLocation": {
+        "title": "Los Angeles Office",
+        "name": "101 Hollywood Blvd, Los Angeles, CA"
+      },
+      "dueDate": "2024-03-10",
+      "contact": "emma.thomas@deltaenterprises.com",
+      "assignedTo": {
+        "manager": "James Anderson",
+        "staff": "Olivia Jackson"
+      },
+      "status": "Rejected",
+      "comments": "Budget constraints"
+    },
+    {
+      "id": "5",
+      "customer": "Epsilon Tech",
+      "refNumber": "E77889",
+      "projectReference": {
+        "title": "Cybersecurity Upgrade",
+        "name": "CyberSec-005"
+      },
+      "projectLocation": {
+        "title": "Austin Office",
+        "name": "202 Tech Park, Austin, TX"
+      },
+      "dueDate": "2024-04-01",
+      "contact": "william.lee@epsilontech.com",
+      "assignedTo": {
+        "manager": "Sophia Harris",
+        "staff": "Liam Clark"
+      },
+      "status": "Completed",
+      "comments": "No issues encountered"
+    },
+    {
+      "id": "6",
+      "customer": "Zeta Innovations",
+      "refNumber": "F99001",
+      "projectReference": {
+        "title": "AI Integration",
+        "name": "AI-006"
+      },
+      "projectLocation": {
+        "title": "Seattle Office",
+        "name": "303 Innovation Way, Seattle, WA"
+      },
+      "dueDate": "2024-05-15",
+      "contact": "mason.rodriguez@zetainnovations.com",
+      "assignedTo": {
+        "manager": "Isabella Lewis",
+        "staff": "Lucas Walker"
+      },
+      "status": "Processing",
+      "comments": "On schedule"
+    },
+    {
+      "id": "7",
+      "customer": "Eta Enterprises",
+      "refNumber": "G22334",
+      "projectReference": {
+        "title": "Data Analytics",
+        "name": "DataAnalytics-007"
+      },
+      "projectLocation": {
+        "title": "Boston Office",
+        "name": "404 Data St, Boston, MA"
+      },
+      "dueDate": "2024-06-20",
+      "contact": "mia.hall@etaenterprises.com",
+      "assignedTo": {
+        "manager": "Alexander Young",
+        "staff": "Amelia King"
+      },
+      "status": "Rejected",
+      "comments": "Pending approval"
+    },
+    {
+      "id": "8",
+      "customer": "Theta Solutions",
+      "refNumber": "H55667",
+      "projectReference": {
+        "title": "Network Expansion",
+        "name": "Network-008"
+      },
+      "projectLocation": {
+        "title": "Miami Office",
+        "name": "505 Ocean Dr, Miami, FL"
+      },
+      "dueDate": "2024-07-10",
+      "contact": "benjamin.scott@thetasolutions.com",
+      "assignedTo": {
+        "manager": "Charlotte Green",
+        "staff": "Henry Adams"
+      },
+      "status": "Rejected",
+      "comments": "Delayed due to technical issues"
+    },
+    {
+      "id": "9",
+      "customer": "Iota Systems",
+      "refNumber": "I88990",
+      "projectReference": {
+        "title": "Blockchain Implementation",
+        "name": "Blockchain-009"
+      },
+      "projectLocation": {
+        "title": "Denver Office",
+        "name": "606 Blockchain Blvd, Denver, CO"
+      },
+      "dueDate": "2024-08-01",
+      "contact": "jackson.baker@iotasystems.com",
+      "assignedTo": {
+        "manager": "Avery Gonzalez",
+        "staff": "Evelyn Nelson"
+      },
+      "status": "Completed",
+      "comments": "Smooth execution"
+    },
+    {
+      "id": "11",
+      "customer": "Lambda Corp",
+      "refNumber": "K33445",
+      "projectReference": {
+        "title": "CRM System Upgrade",
+        "name": "CRM-011"
+      },
+      "projectLocation": {
+        "title": "Phoenix Office",
+        "name": "808 CRM St, Phoenix, AZ"
+      },
+      "dueDate": "2024-10-20",
+      "contact": "ella.roberts@lambdacorp.com",
+      "assignedTo": {
+        "manager": "Daniel Turner",
+        "staff": "Grace Phillips"
+      },
+      "status": "Rejected",
+      "comments": "Client feedback pending"
+    },
+    {
+      "id": "12",
+      "customer": "Mu Enterprises",
+      "refNumber": "L66778",
+      "projectReference": {
+        "title": "Big Data Analysis",
+        "name": "BigData-012"
+      },
+      "projectLocation": {
+        "title": "Philadelphia Office",
+        "name": "909 Data Blvd, Philadelphia, PA"
+      },
+      "dueDate": "2024-11-10",
+      "contact": "logan.campbell@muenterprises.com",
+      "assignedTo": {
+        "manager": "Zoey Parker",
+        "staff": "Jayden Evans"
+      },
+      "status": "Rejected",
+      "comments": "On hold"
+    },
+    {
+      "id": "13",
+      "customer": "Nu Technologies",
+      "refNumber": "M99012",
+      "projectReference": {
+        "title": "Machine Learning Model",
+        "name": "ML-013"
+      },
+      "projectLocation": {
+        "title": "San Diego Office",
+        "name": "1010 ML St, San Diego, CA"
+      },
+      "dueDate": "2024-12-01",
+      "contact": "lucas.edwards@nutechnologies.com",
+      "assignedTo": {
+        "manager": "Lily Collins",
+        "staff": "Nathan Stewart"
+      },
+      "status": "Completed",
+      "comments": "No issues"
+    },
+    {
+      "id": "15",
+      "customer": "Omicron Solutions",
+      "refNumber": "O55678",
+      "projectReference": {
+        "title": "Robotics Integration",
+        "name": "Robotics-015"
+      },
+      "projectLocation": {
+        "title": "San Jose Office",
+        "name": "1212 Robotics Rd, San Jose, CA"
+      },
+      "dueDate": "2025-02-20",
+      "contact": "aiden.morgan@omicronsolutions.com",
+      "assignedTo": {
+        "manager": "Sofia Reed",
+        "staff": "Elijah Cooper"
+      },
+      "status": "Rejected",
+      "comments": "Pending approval"
+    },
+    {
+      "id": "16",
+      "customer": "Pi Enterprises",
+      "refNumber": "P88901",
+      "projectReference": {
+        "title": "Quantum Computing",
+        "name": "Quantum-016"
+      },
+      "projectLocation": {
+        "title": "Portland Office",
+        "name": "1313 Quantum Blvd, Portland, OR"
+      },
+      "dueDate": "2025-03-10",
+      "contact": "avery.bailey@pienterprises.com",
+      "assignedTo": {
+        "manager": "Mila Richardson",
+        "staff": "Ethan Cox"
+      },
+      "status": "Rejected",
+      "comments": "Delayed due to technical issues"
+    },
+    {
+      "id": "17",
+      "customer": "Rho Systems",
+      "refNumber": "Q11223",
+      "projectReference": {
+        "title": "5G Network Deployment",
+        "name": "5G-017"
+      },
+      "projectLocation": {
+        "title": "Las Vegas Office",
+        "name": "1414 Network St, Las Vegas, NV"
+      },
+      "dueDate": "2025-04-01",
+      "contact": "ella.brooks@rhosystems.com",
+      "assignedTo": {
+        "manager": "Liam Sanders",
+        "staff": "Ava Price"
+      },
+      "status": "Completed",
+      "comments": "Smooth execution"
+    },
+    {
+      "id": "18",
+      "customer": "Sigma Innovations",
+      "refNumber": "R33456",
+      "projectReference": {
+        "title": "Edge Computing",
+        "name": "Edge-018"
+      },
+      "projectLocation": {
+        "title": "Atlanta Office",
+        "name": "1515 Edge St, Atlanta, GA"
+      },
+      "dueDate": "2025-05-15",
+      "contact": "jackson.foster@sigmainnovations.com",
+      "assignedTo": {
+        "manager": "Mia Ross",
+        "staff": "Benjamin Powell"
+      },
+      "status": "Processing",
+      "comments": "On track"
+    },
+    {
+      "id": "19",
+      "customer": "Tau Enterprises",
+      "refNumber": "S66789",
+      "projectReference": {
+        "title": "Smart City Project",
+        "name": "SmartCity-019"
+      },
+      "projectLocation": {
+        "title": "Charlotte Office",
+        "name": "1616 Smart St, Charlotte, NC"
+      },
+      "dueDate": "2025-06-20",
+      "contact": "sophia.hughes@tauenterprises.com",
+      "assignedTo": {
+        "manager": "James Ward",
+        "staff": "Emma Bryant"
+      },
+      "status": "Rejected",
+      "comments": "Client feedback pending"
+    },
+    {
+      "customer": "priyansh",
+      "refNumber": "182837dssdsdsd",
+      "projectReference": {
+        "title": "dhiwise",
+        "name": "1829"
+      },
+      "projectLocation": {
+        "title": "ankleshwar",
+        "name": "surat"
+      },
+      "dueDate": "2025-01-28T18:30:00.000Z",
+      "contact": "9889888",
+      "assignedTo": {
+        "manager": "daxesh",
+        "staff": "sndjs"
+      },
+      "status": "Processing",
+      "comments": "test",
+      "id": "ea4d"
+    }
+  ]
+}
